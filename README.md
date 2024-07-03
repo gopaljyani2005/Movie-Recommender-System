@@ -1,8 +1,6 @@
 # Movie-Recommender-System
 
-# Movie Recommender System
-
-A Movie Recommender System built using Python and Streamlit, utilizing a collaborative filtering algorithm to recommend movies based on user preferences.
+A Movie Recommender System built using Python and Streamlit, utilizing a content based algorithm to recommend movies based on user preferences.
 
 ## Table of Contents
 
