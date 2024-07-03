@@ -40,3 +40,10 @@ To run this project locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/gopaljyani2005/Movie-Recommender-System.git
+
+
+## Screenshots
+
+## Screenshots
+
+![Screenshot 1](C:\Users\jyani\jupyternotebook\Project_summer\movies\Movie-Recommender-System\screenshots\Screenshot 2024-07-04 005103.png)
