@@ -10,8 +10,6 @@ A Movie Recommender System built using Python and Streamlit, utilizing a content
 - [Setup Instructions](#setup-instructions)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
