@@ -44,4 +44,4 @@ To run this project locally, follow these steps:
 
 ## Screenshots
 
-![Screenshot 1](screenshots\\Screenshot 2024-07-04 005103.png)
+![Screenshot 1](screenshots/Screenshot%202024-07-04%20005103.png)
